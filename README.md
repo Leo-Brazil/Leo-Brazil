@@ -9,9 +9,14 @@ I like to apply what I learn in new projects and on web pages. And together with
 
 In the area of 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱, I have experience in:
 
-## HTML, CSS, JAVASCRIPT
+ <a href="https://www.w3schools.com/html/default.asp" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="40px" height="40px"></a>
+ <a href="https://www.w3schools.com/css/default.asp" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="40px" height="40px"></a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg"  alt="JavaScript" width="40px" height="40px"></a>&nbsp;
+ <br>
 
 In the area of Back-End, (I’m still studying):
+
+<a href="https://www.php.net/" title="PHP"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" width="40px" height="40px"></a>
 
 #### Currently, I’m studying PHP to expand my skills and keep up with the latest trends in the market.
 
