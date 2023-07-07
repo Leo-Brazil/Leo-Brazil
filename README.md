@@ -7,15 +7,18 @@ My name is Leonardo and I’m a 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗗𝗲𝘃�
 
 I like to apply what I learn in new projects and on web pages. And together with a team, I welcome new suggestions to improve the code.
 
-In the area of 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱, I have experience in:
+## In the area of 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱, I have experience in:
 
  <a href="https://www.w3schools.com/html/default.asp" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="40px" height="40px"></a>
  <a href="https://www.w3schools.com/css/default.asp" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="40px" height="40px"></a>
- <img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="SASS" width="40px" height="40px">
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg"  alt="JavaScript" width="40px" height="40px"></a>&nbsp;
  <br>
 
-In the area of Back-End, (I’m still studying):
+### Front-End Frameworks I studied:
+
+ <img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="SASS" width="40px" height="40px"> <img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="SASS" width="40px" height="40px">
+
+## In the area of Back-End, (I’m still studying):
 
 <a href="https://www.php.net/" title="PHP"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" width="40px" height="40px"></a>
 
@@ -33,9 +36,9 @@ In the area of Back-End, (I’m still studying):
  <br>
  <br>
  
-<img align="center"  align="left"  width=60% src="https://github-readme-stats.vercel.app/api?username=ScorpianBrazil&show_icons=true&theme=dark" alt="ashok" />
+<img align="center"  align="left"  width=60% src="https://github-readme-stats.vercel.app/api?username=Leo-Brazil&show_icons=true&theme=dark" alt="ashok" />
 
-<img align="center" width=37% src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScorpianBrazil&count_private=true&theme=dark" alt="ashok" />
+<img align="center" width=37% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Brazil&count_private=true&theme=dark" alt="ashok" />
 
 <!--
 **ScorpianBrazil/ScorpianBrazil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
