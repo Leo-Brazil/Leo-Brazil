@@ -11,7 +11,7 @@ I like to apply what I learn in new projects and on web pages. And together with
 
  <a href="https://www.w3schools.com/html/default.asp" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="40px" height="40px"></a>
  <a href="https://www.w3schools.com/css/default.asp" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="40px" height="40px"></a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg"  alt="JavaScript" width="40px" height="40px"></a>&nbsp;
+ &nbsp;
  <br>
 
 ### Front-End Frameworks I studied:
@@ -21,17 +21,18 @@ I like to apply what I learn in new projects and on web pages. And together with
 ## In the area of Back-End, (I’m still studying):
 
 <a href="https://www.php.net/" title="PHP"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" width="40px" height="40px"></a> <a href="https://www.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="40px" height="40px"></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png?20170928190710" alt="c++"  width="40px" height="40px">
 
 #### Currently, I’m studying PHP to expand my skills and keep up with the latest trends in the market.
 
 ### If you want to contact me, you can send me an email to:
  <h3> E-mails: ⁣</h3>
- <a href= "mailto:leonardocreud@gmail.com? subject=subject text"> <img width=15%; ;  src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg" alt="react" />
+ <a href= "mailto:leonardocreud@gmail.com? subject=subject text" target="_black"> <img width=15%; ;  src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg" alt="react" />
 <br>
   
 ### Or follow me on Linkedin to know more about me:
  <h4> Linkedin: ⁣</h4>
- <a href="https://www.linkedin.com/in/leonardo-n-ara%C3%BAjo/"><img width=17%; align="center" width=15% ; src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/leonardo-n-ara%C3%BAjo/" target="_black"><img width=17%; align="center" width=15% ; src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
  <br>
  <br>
