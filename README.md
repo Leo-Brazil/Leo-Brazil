@@ -22,6 +22,7 @@ I like to apply what I learn in new projects and on web pages. And together with
 
 <a href="https://www.php.net/" title="PHP"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" width="40px" height="40px"></a> <a href="https://www.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="40px" height="40px"></a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png?20170928190710" alt="c++"  width="40px" height="40px">
+<img src="https://th.bing.com/th/id/OIP.IM82_u_wkO7b1QCaH4wXAQHaIH?w=161&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="python"  width="40px" height="40px">
 
 #### Currently, I’m studying PHP to expand my skills and keep up with the latest trends in the market.
 
