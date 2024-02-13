@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ScorpianBrazil-github-username)
 
-My name is Leonardo and I’m a 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿. I have experience with programming, web development, code maintenance and implementation of these systems in companies. I also help teams to improve the quality of their projects and to solve any problems they may have.
+My name is Leonardo and I’m a Full Stack Developer. I have experience with programming, web development, code maintenance and implementation of these systems in companies. I also help teams to improve the quality of their projects and to solve any problems they may have.
 
 I like to apply what I learn in new projects and on web pages. And together with a team, I welcome new suggestions to improve the code.
 
